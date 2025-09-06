@@ -28,10 +28,10 @@ All repositories are configured with GitHub Actions, which allows for manual tri
     <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40"/>&nbsp;
   </div>
 
-    ### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KatrinTor&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+### :fire: My Stats :
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=rassokha03&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatrinTor)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rassokha03)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
