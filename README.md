@@ -15,6 +15,12 @@
 
 All repositories are configured with GitHub Actions, which allows for manual triggering of automated tests and generating Allure reports.
 
+  <div id="badges">
+    <a href="https://t.me/rassokha03">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white%22%20alt=%22Telegram%20Badge"/>
+    </a>
+  </div>
+
   ------
   
 ### :hammer_and_wrench: Languages and Tools :
